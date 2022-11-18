@@ -1,0 +1,10 @@
+C:\Users\anato\source\repos\Lw.9.13\obj\Debug\Lw.9.13.csproj.AssemblyReference.cache
+C:\Users\anato\source\repos\Lw.9.13\obj\Debug\Lw._9._13.Form1.resources
+C:\Users\anato\source\repos\Lw.9.13\obj\Debug\Lw._9._13.Properties.Resources.resources
+C:\Users\anato\source\repos\Lw.9.13\obj\Debug\Lw.9.13.csproj.GenerateResource.cache
+C:\Users\anato\source\repos\Lw.9.13\obj\Debug\Lw.9.13.csproj.CoreCompileInputs.cache
+C:\Users\anato\source\repos\Lw.9.13\bin\Debug\Lw.9.13.exe.config
+C:\Users\anato\source\repos\Lw.9.13\bin\Debug\Lw.9.13.exe
+C:\Users\anato\source\repos\Lw.9.13\bin\Debug\Lw.9.13.pdb
+C:\Users\anato\source\repos\Lw.9.13\obj\Debug\Lw.9.13.exe
+C:\Users\anato\source\repos\Lw.9.13\obj\Debug\Lw.9.13.pdb
